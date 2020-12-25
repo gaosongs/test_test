@@ -1,0 +1,6 @@
+com\bjsxt\service\ProductService.class
+com\bjsxt\pojo\Product.class
+com\bjsxt\pojo\Order.class
+com\bjsxt\service\impl\ProductServiceImpl.class
+com\bjsxt\controller\ProductController.class
+com\bjsxt\mapper\ProductMapper.class
